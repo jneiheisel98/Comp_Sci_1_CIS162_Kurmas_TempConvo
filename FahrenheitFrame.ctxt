@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=FahrenheitFrame
+comment0.text=\r\n\ \ GUI\ Example\ -\ Converting\ Fahrenheit\ temp\ to\ Celsius\ temp\r\n\ \ @author\ Ana\ Posada\r\n\ \ @version\ -\ March\ 2019\r\n
+comment1.params=
+comment1.target=FahrenheitFrame()
+comment1.text=\r\n\ Constructor\r\n
+comment2.params=event
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.text=\r\n\ \ action\ listener\ for\ the\ temperature\ input\ field.\r\n\ \ @param\ -\ event\ that\ invokes\ the\ action\ listener\ \r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment3.text=\r\n\ main\ method\r\n
+numComments=4
